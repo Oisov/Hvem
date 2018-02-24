@@ -1,0 +1,4 @@
+Navn, Medlemsgrad
+Noen, 2
+Jørgen Taule, 0.1
+Øistein Søvik, 0.33

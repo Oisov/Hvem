@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <style>
+        h1 {
+            text-align: center;
+            font-size:200px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 id="Noen"></h1>
+    <!-- <input id="clickMe" type="button" value="clickme" onclick="processData();" /> -->
+    <script>
+        $(document).ready(function() {
+            $.ajax({
+                type: "GET",
+                url: "medlemsgrad.txt",
+                dataType: "text",
+                success: function(data) {
+                    processData(data);
+                }
+            });
+        });
+
+        function processData(allText) {
+            var allTextLines = allText.split(/\r\n|\n/);
+            var headers = allTextLines[0].split(',');
+            var lines = [];
+
+            for (var i = 1; i < allTextLines.length; i++) {
+                var data = allTextLines[i].split(',');
+                if (data.length == headers.length) {
+
+                    var tarr = [];
+                    for (var j = 0; j < headers.length; j++) {
+                        tarr.push(headers[j] + ":" + data[j]);
+                    }
+                    lines.push(tarr);
+                }
+            }
+
+            var total = 0;
+            lines.forEach(function(line) {
+                res = line[1].split(":");
+                console.log('Line is ' + res[1]);
+                total += parseFloat(res[1]);
+            })
+
+
+            console.log(total);
+
+            var accumulative = 0;
+            var accumulativeMemberlist = [];
+            var i = 0;
+            lines.forEach(function(line) {
+
+                name = (line[0].split(":"))[1];
+                activity = parseFloat((line[1].split(":"))[1]) / total;
+
+                accumulative += activity;
+
+                console.log(name + " : " + activity);
+                console.log(accumulative);
+
+                accumulativeMemberlist[i] = [name, accumulative];
+                i += 1;
+
+            })
+
+
+            console.log(accumulativeMemberlist);
+
+
+            var randInt = Math.random();
+            console.log(randInt);
+
+            for (i = 0; i < accumulativeMemberlist.length; i++) {
+                var person = accumulativeMemberlist[i];
+                var name = person[0];
+                var number = person[1];
+                console.log(person[1]);
+
+                if (randInt < number) {
+                    console.log(person[1]);
+                    document.getElementById("Noen").innerHTML = name;
+                    break;
+                }
+            }
+
+
+        }
+    </script>
+</body>
+
+</html>
