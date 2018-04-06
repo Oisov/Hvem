@@ -1,5 +1,5 @@
 Navn, Medlemsgrad
-Noen, 2
+Noen, 4
 En eller annen, 0.999999999999999999999999999999999999999999999999999999999
 Jørgen Taule, 0.2
 Michael Nilsen, 0.1
