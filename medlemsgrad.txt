@@ -28,3 +28,4 @@ Simen Giskegjerde, 0.96599167381945649666086109941347931817817148097718672600876
 Jostein Gjesdal, 1
 Preben Hast Sørli, 0.1
 Mangnus Mæhlum, 1
+Ruben Mustad, 0.3
