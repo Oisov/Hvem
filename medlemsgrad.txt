@@ -26,6 +26,7 @@ Anders Krøger, 1
 Magnus Lie, 0.1
 Simen Giskegjerde, 0.96599167381945649666086109941347931817817148097718672600876698293
 Jostein Gjesdal, 1
-Preben Hast Sørli, 0.1
+Preben Hast Sørli, 1
 Mangnus Mæhlum, 1
 Ruben Mustad, 0.3
+Even Aslaksen, 1
