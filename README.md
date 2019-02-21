@@ -1,2 +1,2 @@
-# [Hvem](https://oisov.github.io/Noen/index.html)
+# [Hvem](https://oisov.github.io/Hvem/index.html)
 Side for å fortelle deg **hvem** som må gjøre NOE
