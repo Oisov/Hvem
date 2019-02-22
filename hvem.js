@@ -1,20 +1,20 @@
-document.addEventListener("DOMContentLoaded", function(event) { 
-  // Uses the built in fetch to read the textfile
-  fetch("medlemsgrad.txt")
-    .then(handleErrors)
-    .then(response =>
-          response.text()
-          .then(text =>
+document.addEventListener("DOMContentLoaded", function(event) {
+    // Uses the built in fetch to read the textfile
+    fetch("medlemsgrad.txt")
+        .then(handleErrors)
+        .then(response =>
+            response.text()
+            .then(text =>
                 document.getElementById("Noen").innerHTML = hvem(text))
-         )
-    .catch(error => console.log(error));
+        )
+        .catch(error => console.log(error));
 });
 
 function handleErrors(response) {
     if (!response.ok) {
         //If medlemsgrad.text not found set hvem to Noen
-      document.getElementById("Noen").innerHTML = "Noen";
-      throw "medelmsgrad.txt is missing!";
+        document.getElementById("Noen").innerHTML = "Noen";
+        throw "medelmsgrad.txt is missing!";
     }
     return response;
 }
