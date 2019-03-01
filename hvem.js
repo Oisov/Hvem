@@ -10,6 +10,17 @@ function updateHvem() {
         .catch(error => console.log(error));
 }
 
+var lastTap = null;
+document.addEventListener("touchstart", function(event) {
+  const now = Date.now();
+  const DOUBLE_PRESS_DELAY = 300;
+  if (lastTap && (now - lastTap) < DOUBLE_PRESS_DELAY) {
+    updateHvem();
+  } else {
+    lastTap = now;
+  }
+});
+
 document.addEventListener("DOMContentLoaded", function(event) {
     // Waits until the page is loaded then fires the updateHvem script
     updateHvem();
@@ -33,23 +44,23 @@ function handleErrors(response) {
 }
 
 function squareError(members) {
-    let squareError = 0;
+  let squareError = 0;
     for (const [key, value] of Object.entries(members)) {
-        squareError = (value[0] - value[1]) ** 2;
+        squareError += (value[0] - value[1]) ** 2;
     }
-    return squareError;
+    return squareError ** 0.5;
 }
 
 function testHvem(members, accumulativeMembers) {
     // This runs Hvem 10^7 times and checks how close the expected number
     // of times your name shows up is to how often your name actually shows up
-    let numberOfTests = 10 ** 7;
+    let numberOfTests = 10 ** 6;
     let total = getTotalMembership(members);
 
-    let [choosen, name] = [{}, ""];
-    members.forEach(member => {
-        choosen[member[0]] = [0, numberOfTests * parseFloat(member[1]) / total];
-    });
+    let choosen = {};
+    for (const [name, membershipDegree] of accumulativeMembers) {
+        choosen[name] = [0, numberOfTests * parseFloat(membershipDegree) / total];
+    };
 
     for (i = 0; i < numberOfTests; i++) {
         name = getHvem(accumulativeMembers);
@@ -87,11 +98,7 @@ function getMembers(lines) {
 }
 
 function getTotalMembership(members) {
-    let totalMembershipDegree = 0;
-    members.forEach(member => {
-        totalMembershipDegree += member[1];
-    });
-    return totalMembershipDegree;
+    return members.reduce((sum, current) => (sum + current[1]), 0);
 }
 
 function getAccumulutiveMembers(members) {
@@ -140,7 +147,7 @@ function getHvem(accumulativeMembers) {
     // which is what we wanted.
     let randInt = Math.random();
     for (const [name, number] of accumulativeMembers) {
-        if (randInt < number) {
+        if (number > randInt) {
             return name;
         }
     };
