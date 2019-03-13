@@ -15,7 +15,7 @@ document.addEventListener("touchstart", function(event) {
   const now = Date.now();
   const DOUBLE_PRESS_DELAY = 300;
   if (lastTap && (now - lastTap) < DOUBLE_PRESS_DELAY) {
-    uodateHvem();
+    updateHvem();
   } else {
     lastTap = now;
   }
