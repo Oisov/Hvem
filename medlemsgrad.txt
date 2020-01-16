@@ -17,7 +17,7 @@ Anders Krøger, 0.5
 Magnus Lie, 0.1
 Jostein Gjesdal, 1
 Preben Hast Sørli, 1
-Mangnus Mæhlum, 1
+Magnus Mæhlum, 1
 Ruben Mustad, 0.3
 Even Aslaksen, 1
 Jacob Fjeld Grevstad, 0.367879441171442321595523770161460867445811131031767834507
