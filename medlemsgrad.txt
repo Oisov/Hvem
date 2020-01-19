@@ -32,7 +32,6 @@ Johan Mikalsen Storrønning, 0.5
 Andreas Palm Sivertsen, 0.1
 Isak Drage, 0.5
 Elise Lindegaard Hanssen, 0.333333333333333333333333333333333333333333333333333333333
-Jeppe Halvorsen, 0.5
 Dag Eimund Hansen, 0.5
 Silje Kristengård, 0.5
 Erik Kvikne, 0.1
