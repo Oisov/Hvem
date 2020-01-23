@@ -36,3 +36,6 @@ Dag Eimund Hansen, 0.5
 Silje Kristengård, 0.5
 Erik Kvikne, 0.1
 Thomas Rødland, 0.5
+Guro Rio Berge, 0.5
+Ellen Haltuff, 0.5
+Elias Bergquist, 0.5
