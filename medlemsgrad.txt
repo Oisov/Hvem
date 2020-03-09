@@ -39,6 +39,6 @@ Erik Kvikne, 0.1
 Thomas Rødland, 0.5
 Guro Rio Berge, 0.1
 Ellen Haltuff, 0.5
-Elias Bergquist, 0.538008
+Elias Bergquist, 0.58008
 Eline Vidhammer Lystad, 0.5
 Linn Bolin Haakenstad, 0.1
