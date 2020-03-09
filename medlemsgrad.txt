@@ -33,7 +33,7 @@ Johan Mikalsen Storrønning, 0.5
 Andreas Palm Sivertsen, 0.1
 Isak Drage, 0.5
 Elise Lindegaard Hanssen, 0.333333333333333333333333333333333333333333333333333333333
-Dag Eimund Hansen, 0.5
+Dag Eimund Hansen, 0.182144772638365978403984302405766521416411868830426390709
 Silje Kristengård, 0.5
 Erik Kvikne, 0.1
 Thomas Rødland, 0.5
