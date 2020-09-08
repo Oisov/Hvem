@@ -22,7 +22,7 @@ Elisabet Maria Myrstad, 0.1
 Sander Lyng Klokk, 0.1
 Erlend Mikkelsen, 1
 Oda Hjemli, 0.2
-Sigve Lysne, 1
+Sigve Lysne, 0.1
 Elias Klakken, 0.60792710185402662866327677925836583342615264803347929307
 Martinius Theodor Singdahlsen, 0.5
 Martinius Synstad Simonsen, 0.271828182845904523536028747135266249775724709369995957496
