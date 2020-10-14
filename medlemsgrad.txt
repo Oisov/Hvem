@@ -11,8 +11,8 @@ Simen Vaeng, 0.1
 Håkon Johnstuen, 0.865255979432265087217774789646089617428744623908515539454
 Ole Martin Edstrøm, 0.111111111111111111111111111111111111111111111111111111111
 Anders Alexander Andersen, 0.577215664901532860606512090082402431042159335939923598805
-Ingrid Hole, 0.999998
-Anders Krøger, 0.105817518191375589971742128391999290987040710976994829858
+Ingrid Hole, 0.117099663048638321380484536933333744427829842552122897753
+Anders Krøger, 0.282858729335447597820661515815999321011816974861615665166
 Magnus Lie, 0.1
 Jostein Gjesdal, 1
 Ruben Mustad, 0.3
@@ -42,18 +42,19 @@ Ellen Haltuff, 0.5
 Elias Bergquist, 0.58008
 Eline Vidhammer Lystad, 0.5
 Linn Bolin Haakenstad, 0.1
-Trym Marthinsen Eidstein, 0.5
+Trym Marthinsen Eidstein, 0.4
 Joy Haina Sørbotten, 0.5
 Jonas Kalkenberg Guttormsen, 0.5
 Boye Sjo, 0.5
-Martin Löcsei, 0.5
-Sondre Nese Waldron,0.5
-Jørgen Juberg Eng, 0.5
+Martin Löcsei, 0.1
+Sondre Nese Waldron,0.2
+Jørgen Juberg Eng, 0.4
 Maren Fuglås, 0.5
-Mikkel Elkjær Kårstein, 0.5
+Mikkel Elkjær Kårstein, 0.2
 Andrine Haugdal, 0.5
 Ola Runeson Rasmussen, 0.5
 Maximilian Rønseth, 0.5
 Wilhelm Sunde Lie, 0.5
-Eivind Xu Djurhuus, 0.5
-Kasper Voogt Arvesen, 0.5
+Eivind Xu Djurhuus, 0.311826485796372802000372398381689422498107090092604033171
+Kasper Voogt Arvesen, 0.3
+Cecilie Linchausen, 0.5
