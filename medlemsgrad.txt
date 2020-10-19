@@ -19,7 +19,7 @@ Ruben Mustad, 0.3
 Even Aslaksen, 1
 Pia Johanne Skeide, 0.865255979432265087217774789646089617428744623908515539454
 Elisabet Maria Myrstad, 0.1
-Sander Lyng Klokk, 0.1
+Sander Lyng Klokk, 1
 Erlend Mikkelsen, 1
 Oda Hjemli, 0.2
 Sigve Lysne, 0.1
