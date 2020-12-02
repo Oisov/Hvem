@@ -1,4 +1,4 @@
-Navn, Medlemsgrad
+Navnet, Medlemsgrad
 Noen, 4.0840704496667312100014363982633537494563202191876375672
 En eller annen, 1.05
 Michael Nilsen, 0.1
