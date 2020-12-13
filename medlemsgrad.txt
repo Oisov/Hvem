@@ -38,7 +38,7 @@ Silje Kristengård, 0.5
 Erik Kvikne, 0.1
 Thomas Rødland, 0.5
 Eivind Svae, 1
-Håvard Skjetne Lilleheie, 0.5
+Håvard Skjetne Lilleheie, 0.69
 Guro Rio Berge, 0.1
 Ellen Haltuff, 0.5
 Elias Bergquist, 0.58008
