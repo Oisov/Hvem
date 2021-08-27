@@ -40,7 +40,7 @@ Thomas Rødland, 0.5
 Eivind Svae, 1
 Håvard Skjetne Lilleheie, 0.69
 Guro Rio Berge, 0.1
-Ellen Haltuff, 0.5
+Ellen Haltuff, 0.1
 Elias Bergquist, 0.58008
 Eline Vidhammer Lystad, 0.5
 Linn Bolin Haakenstad, 0.1
