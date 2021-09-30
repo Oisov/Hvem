@@ -59,14 +59,14 @@ Eivind Xu Djurhuus, 0.311826485796372802000372398381689422498107090092604033171
 Kasper Voogt Arvesen, 0.3
 Cecilie Linchausen, 0.5
 Sigurd Oxaas Wie, 0.5
-Ingrid Helgeland Sannæs, 0.5
+Ingrid Helgeland Sannæs, 0.380350535473839401562787498601678777852730237255529794948
 Mathea Josefine Falkman Swensson, 0.5
-Oskar Leonhard Sørensen, 0.5
+Oskar Leonhard Sørensen, 0.5333825607930032
 Jacob Lauvanger, 0.5
 Dennis Stellmacher, 0.5
 Even Maritsønn Haga, 0.5
-Erik Killingberg Jensen, 0.5
+Erik Killingberg Jensen, 0.513306808916964034915035526241919070478909122458579830259
 Simen Koffeld, 0.5
 Bjørn Norstrøm, 0.5
 June Christine Anthonisen-Dahl, 0.5
-Espen Maria van Beuzekom, 0.5
+Espen van Beuzekom, 0.5
