@@ -53,7 +53,7 @@ Sondre Nese Waldron,0.2
 Jørgen Juberg Eng, 0.4
 Maren Fuglås, 0.5
 Mikkel Elkjær Kårstein, 0.2
-Andrine Haugdal, 0.5
+Andrine Haugdal, 0.320389935721300912969418304434656557139870498539091449730
 Ola Runeson Rasmussen, 0.5
 Eivind Xu Djurhuus, 0.311826485796372802000372398381689422498107090092604033171
 Kasper Voogt Arvesen, 0.3
@@ -64,7 +64,7 @@ Mathea Josefine Falkman Swensson, 0.5
 Oskar Leonhard Sørensen, 0.5333825607930032
 Jacob Lauvanger, 0.5
 Dennis Stellmacher, 0.5
-Even Maritsønn Haga, 0.5
+Even Maritsønn Haga, 0.64
 Erik Killingberg Jensen, 0.513306808916964034915035526241919070478909122458579830259
 Simen Koffeld, 0.5
 Bjørn Norstrøm, 0.5
