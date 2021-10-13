@@ -1,6 +1,6 @@
 Navnet, Medlemsgrad
 Noen, 4.0840704496667312100014363982633537494563202191876375672
-En eller annen, 1.010993244724569760461476064832728397247651515093986537127
+En eller annen, 1.05
 Michael Nilsen, 0.1
 Vegard Undheim, 1
 Erling Arnold Tønseth Svela, 0.693147180559945309417232121458176568075500134360255254120
@@ -45,7 +45,7 @@ Elias Bergquist, 0.58008
 Eline Vidhammer Lystad, 0.5
 Linn Bolin Haakenstad, 0.1
 Trym Marthinsen Eidstein, 0.4
-Joy Haina Sørbotten, 0.5
+Joy Haina Sørbotten, 0.7
 Jonas Kalkenberg Guttormsen, 0.5
 Boye Sjo, 0.5
 Martin Löcsei, 0.1
@@ -55,7 +55,7 @@ Maren Fuglås, 0.5
 Mikkel Elkjær Kårstein, 0.2
 Andrine Haugdal, 0.320389935721300912969418304434656557139870498539091449730
 Ola Runeson Rasmussen, 0.5
-Eivind Xu Djurhuus, 0.311826485796372802000372398381689422498107090092604033171
+Eivind Xu Djurhuus, 0.333333333333333333333333333332381180272862743400598770963
 Kasper Voogt Arvesen, 0.3
 Cecilie Linchausen, 0.5
 Sigurd Oxaas Wie, 0.5
@@ -67,6 +67,6 @@ Dennis Stellmacher, 0.5
 Even Maritsønn Haga, 0.64
 Erik Killingberg Jensen, 0.513306808916964034915035526241919070478909122458579830259
 Simen Koffeld, 0.5
-Bjørn Norstrøm, 0.5
+Bjørn Norstrøm, 0.85054036857193380904095839913023486705
 June Christine Anthonisen-Dahl, 0.5
 Espen van Beuzekom, 0.5
