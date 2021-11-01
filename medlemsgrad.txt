@@ -70,3 +70,5 @@ Simen Koffeld, 0.5
 Bjørn Norstrøm, 0.85054036857193380904095839913023486705
 June Christine Anthonisen-Dahl, 0.5
 Espen van Beuzekom, 0.5
+Thomas Thrane, 0.5
+Mikael Bourmistrov, 0.5
