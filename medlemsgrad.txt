@@ -1,38 +1,24 @@
 Navnet, Medlemsgrad
-Noen, 4.0840704496667312100014363982633537494563202191876375672
-En eller annen, 1.05
-Michael Nilsen, 0.1
-Vegard Undheim, 1
-Erling Arnold Tønseth Svela, 0.693147180559945309417232121458176568075500134360255254120
+Noen, 4.008240
+En eller annen, 0.950000
+Michael Nilsen, 0.100000
 Lars Sæle, 0.1
-Pål-Anders Skari, 0.121831
-Ola Lajord, 0.367879441171442321595523770161460867445811131031767834507
 Simen Vaeng, 0.1
-Ole Martin Edstrøm, 0.111111111111111111111111111111111111111111111111111111111
-Anders Alexander Andersen, 0.577215664901532860606512090082402431042159335939923598805
-Ingrid Hole, 0.117099663048638321380484536933333744427829842552122897753
-Anders Krøger Evensen, 0.282858729335447597820661515815999321011816974861615665166
+Ole Martin Edstrøm, 0.111111
+Anders Alexander Andersen, 0.500000
+Ingrid Hole, 0.117100
+Anders Krøger Evensen, 0.282859
 Magnus Lie, 0.1
-Jostein Gjesdal, 1
-Ruben Mustad, 0.3
 Even Aslaksen, 1
-Pia Johanne Skeide, 0.865255979432265087217774789646089617428744623908515539454
-Elisabet Maria Myrstad, 0.1
+Pia Johanne Skeide, 0.865255
 Sander Lyng Klokk, 1
 Erlend Mikkelsen, 1
 Oda Hjemli, 0.2
-Sigve Lysne, 0.1
-Elias Klakken Angelsen, 0.60792710185402662866327677925836583342615264803347929307
 Martinius Theodor Singdahlsen, 0.5
-Martinius Synstad Simonsen, 0.271828182845904523536028747135266249775724709369995957496
-Herman Høgseth Haavind, 0.3
-Stefan Ochsenfeld, 0.31830988618379067153776752674502872406891929148091289749
-Andreas Palm Sivertsen, 0.1
+Stefan Ochsenfeld, 0.318309
 Isak Drage, 0.1
-Elise Lindegaard Hanssen, 0.333333333333333333333333333333333333333333333333333333333
-Dag Eimund Hansen, 0.182144772638365978403984302405766521416411868830426390709
-Erik Kvikne, 0.1
-Thomas Rødland, 0.5
+Elise Lindegaard Hanssen, 0.333333
+Dag Eimund Hansen, 0.182145
 Eivind Svae, 1
 Håvard Skjetne Lilleheie, 0.69
 Guro Rio Berge, 0.1
@@ -40,29 +26,32 @@ Ellen Haltuff, 0.1
 Elias Bergquist, 0.58008
 Eline Vidhammer Lystad, 0.5
 Linn Bolin Haakenstad, 0.1
-Trym Marthinsen Eidstein, 0.4
 Joy Haina Sørbotten, 0.7
-Jonas Kalkenberg Guttormsen, 0.5
-Boye Sjo, 0.5
-Martin Löcsei, 0.1
 Sondre Nese Waldron,0.2
-Jørgen Juberg Eng, 0.4
 Mikkel Elkjær Kårstein, 0.2
-Andrine Haugdal, 0.320389935721300912969418304434656557139870498539091449730
-Ola Runeson Rasmussen, 0.5
-Eivind Xu Djurhuus, 0.333333333333333333333333333332381180272862743400598770963
+Andrine Haugdal, 0.320389
+Eivind Xu Djurhuus, 0.333333
 Kasper Voogt Arvesen, 0.3
-Cecilie Linchausen, 0.5
-Sigurd Oxaas Wie, 0.5
-Ingrid Helgeland Sannæs, 0.380350535473839401562787498601678777852730237255529794948
 Mathea Josefine Falkman Swensson, 0.5
-Oskar Leonhard Sørensen, 0.5333825607930032
+Oskar Leonhard Sørensen, 0.533383
 Jacob Lauvanger, 0.5
-Dennis Stellmacher, 0.5
+Dennis Stellmacher, 1
 Even Maritsønn Haga, 0.64
-Erik Killingberg Jensen, 0.513306808916964034915035526241919070478909122458579830259
-Bjørn Norstrøm, 0.85054036857193380904095839913023486705
-June Christine Anthonisen-Dahl, 0.5
+Erik Killingberg Jensen, 0.500000
+Bjørn Norstrøm, 0.850540
 Espen van Beuzekom, 0.5
 Thomas Thrane, 0.5
-Mikael Bourmistrov, 0.5
+Wilhelm Sunde Lie, 0.164286
+Maximilian Rønseth, 0.164290
+Marie Kjølhamar Hanserud, 0.5
+Agnes Moland, 0.5
+Astrid Søvik, 0.5
+Erin Bråten, 0.5
+Ivar Sandvik, 0.5
+Johanne Krogholm Sand, 0.5
+Kasper Trygvesson Eikrem, 0.5
+Marin Yanev, 0.5
+Natalie Røe Austgulen, 0.5
+Rebekka Marie Angel, 0.5
+Sahil Karegaonkar, 0.5
+Sunniva Engan, 0.5
