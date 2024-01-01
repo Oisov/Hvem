@@ -55,7 +55,7 @@ Rebekka Marie Angel, 0.666
 Sahil Karegaonkar, 0.5
 Sunniva Engan, 0.5
 Peter Soelberg, 0.57722
-Frida Kyrkjebø, 4
+Frida Kyrkjebø, 0.5
 Hedda Mehlum, 0.24092
 Hedda Sandvik Knudsen, 0.5
 Håvard Trageton, 0.5
