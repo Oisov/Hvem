@@ -1,6 +1,6 @@
 Navnet, Medlemsgrad
 Noen, 4.008240
-En eller annen, 0.950000
+En eller annen, 1.420690
 Michael Nilsen, 0.100000
 Lars Sæle, 0.1
 Simen Vaeng, 0.1
@@ -29,29 +29,40 @@ Linn Bolin Haakenstad, 0.1
 Joy Haina Sørbotten, 0.7
 Sondre Nese Waldron,0.2
 Mikkel Elkjær Kårstein, 0.2
-Andrine Haugdal, 0.320389
 Eivind Xu Djurhuus, 0.333333
 Kasper Voogt Arvesen, 0.3
 Mathea Josefine Falkman Swensson, 0.5
-Oskar Leonhard Sørensen, 0.533383
+Oskar Leonhard Sørensen, 1.000000
 Jacob Lauvanger, 0.5
 Dennis Stellmacher, 1
 Even Maritsønn Haga, 0.64
 Erik Killingberg Jensen, 0.500000
 Bjørn Norstrøm, 0.850540
 Espen van Beuzekom, 0.5
-Thomas Thrane, 0.5
+Thomas Thrane, 0.8
 Wilhelm Sunde Lie, 0.164286
 Maximilian Rønseth, 0.164290
 Marie Kjølhamar Hanserud, 0.5
-Agnes Moland, 0.5
-Astrid Søvik, 0.5
+Agnes Moland, 0.6
+Astrid Søvik, 0.398940
 Erin Bråten, 0.5
-Ivar Sandvik, 0.5
+Ivar Sandvik, 0.56418
 Johanne Krogholm Sand, 0.5
-Kasper Trygvesson Eikrem, 0.5
+Kasper Trygvesson Eikrem, 0.743333
 Marin Yanev, 0.5
-Natalie Røe Austgulen, 0.5
-Rebekka Marie Angel, 0.5
+Natalie Røe Austgulen, 0.314159
+Rebekka Marie Angel, 0.666
 Sahil Karegaonkar, 0.5
 Sunniva Engan, 0.5
+Peter Soelberg, 0.57722
+Frida Kyrkjebø, 0.5
+Hedda Mehlum, 0.24092
+Hedda Sandvik Knudsen, 0.5
+Håvard Trageton, 0.5
+Julie Solberg, 0.4
+Jørgen Sønstabø, 0.5
+Lars Hasle Rønningen, 0.1
+Rudolfs Sietinsons, 0.5
+Sebastian Jarleng Redzic, 0.5
+Sondre Horvei Eikeland, 0.5
+Åsne Rudi Berentsen, 0.5
