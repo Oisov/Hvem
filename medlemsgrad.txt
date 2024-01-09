@@ -66,3 +66,4 @@ Rudolfs Sietinsons, 0.5
 Sebastian Jarleng Redzic, 0.5
 Sondre Horvei Eikeland, 0.5
 Åsne Rudi Berentsen, 0.5
+Gaute Finsveen, 0.1
