@@ -1,69 +1,32 @@
 Navnet, Medlemsgrad
 Noen, 4.008240
 En eller annen, 1.420690
-Michael Nilsen, 0.100000
 Lars Sæle, 0.1
-Simen Vaeng, 0.1
 Ole Martin Edstrøm, 0.111111
 Anders Alexander Andersen, 0.500000
-Ingrid Hole, 0.117100
-Anders Krøger Evensen, 0.282859
-Magnus Lie, 0.1
-Even Aslaksen, 1
+XXXIngrid Hole, 0.117100
+XXXAnders Krøger Evensen, 0.282859
 Pia Johanne Skeide, 0.865255
 Sander Lyng Klokk, 1
-Erlend Mikkelsen, 1
 Oda Hjemli, 0.2
-Martinius Theodor Singdahlsen, 0.5
-Stefan Ochsenfeld, 0.318309
-Isak Drage, 0.1
-Elise Lindegaard Hanssen, 0.333333
-Dag Eimund Hansen, 0.182145
-Eivind Svae, 1
-Håvard Skjetne Lilleheie, 0.69
-Guro Rio Berge, 0.1
+XXXEivind Svae, 1
 Ellen Haltuff, 0.1
-Elias Bergquist, 0.58008
-Eline Vidhammer Lystad, 0.5
-Linn Bolin Haakenstad, 0.1
-Joy Haina Sørbotten, 0.7
-Sondre Nese Waldron,0.2
-Mikkel Elkjær Kårstein, 0.2
-Eivind Xu Djurhuus, 0.333333
-Kasper Voogt Arvesen, 0.3
-Mathea Josefine Falkman Swensson, 0.5
 Oskar Leonhard Sørensen, 1.000000
-Jacob Lauvanger, 0.5
 Dennis Stellmacher, 1
-Even Maritsønn Haga, 0.64
-Erik Killingberg Jensen, 0.500000
-Bjørn Norstrøm, 0.850540
-Espen van Beuzekom, 0.5
 Thomas Thrane, 0.8
-Wilhelm Sunde Lie, 0.164286
-Maximilian Rønseth, 0.164290
-Marie Kjølhamar Hanserud, 0.5
+XXXWilhelm Sunde Lie, 0.164286
 Agnes Moland, 0.6
 Astrid Søvik, 0.398940
-Erin Bråten, 0.5
 Ivar Sandvik, 0.56418
-Johanne Krogholm Sand, 0.5
-Kasper Trygvesson Eikrem, 0.743333
-Marin Yanev, 0.5
 Natalie Røe Austgulen, 0.314159
 Rebekka Marie Angel, 0.666
-Sahil Karegaonkar, 0.5
-Sunniva Engan, 0.5
-Peter Soelberg, 0.57722
+Mia Soelberg, 0.57722
 Frida Kyrkjebø, 0.5
 Hedda Mehlum, 0.24092
-Hedda Sandvik Knudsen, 0.5
-Håvard Trageton, 0.5
 Julie Solberg, 0.4
-Jørgen Sønstabø, 0.5
-Lars Hasle Rønningen, 0.1
-Rudolfs Sietinsons, 0.5
-Sebastian Jarleng Redzic, 0.5
-Sondre Horvei Eikeland, 0.5
-Åsne Rudi Berentsen, 0.5
-Gaute Finsveen, 0.1
+Ingrid Fidjestøl, 0.777
+Benjamin Karlsen(Nutrix), 1
+Maia Austigard(Abakus), 0.5
+Rolf Andreas Berg(Berg), 0.5
+Sara Marie Sætre Green, 0.34
+Vicktoria Bell(Omega), 0.1
